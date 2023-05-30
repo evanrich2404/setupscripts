@@ -17,7 +17,6 @@ sudo apt install -y openssl
 sudo apt install -y npm
 sudo apt install -y net-tools
 sudo apt install -y python3-lxml
-sudo apt install -y neofetch
 sudo apt install -y git
 sudo apt install -y curl
 sudo apt install -y wget
